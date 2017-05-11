@@ -55,6 +55,7 @@
       </plugin>
     </plugins>
 		</build>
+		
 	<scm>
 	<connection>scm:git:git@github.com/suhail6675/Personalrepository.git</connection>
 	<url>scm:git:git@github.com:suhail6675/Personalrepository.git</url>
